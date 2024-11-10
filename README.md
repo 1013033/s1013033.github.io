@@ -206,12 +206,12 @@ SVN: 14570
 :::
 
 :::danger
-:fire: Profile資料收集需耗費很高的執行成本 
+🔥 Profile資料收集需耗費很高的執行成本 
 導致 GBA 系統無法順利運作，DeadLock更加嚴重了
 :::
 
 :::warning
-:mega: **有甚麼替代方案?** 
+📢 **有甚麼替代方案?** 
 擴展事件(Extented Events)
 :::
 
